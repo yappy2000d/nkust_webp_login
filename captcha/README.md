@@ -1,6 +1,7 @@
 # Captcha 驗證
 高科 Webp（校務系統）的人機驗證
 ## Requirements
+Python 3.11.2
 | Package       | Version  | 備註 |
 |---------------|----------|------|
 | Pillow        | 10.0.1   |      |
