@@ -3,8 +3,8 @@
 
 ## 檔案架構
 ```
-main.ipynb 主程式
-images/ 標籤過的圖片
+main.ipynb      (主程式)
+images/         (標籤過的圖片)
    |--- bmp/    (點陣圖)
    |--- jpg/    (JPG 格式)
    |--- tmp/    (Labeling 時)
