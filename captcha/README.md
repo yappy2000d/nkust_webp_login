@@ -2,11 +2,13 @@
 高科 Webp（校務系統）的人機驗證由四個英數文字組成，並且無大小寫之分。
 
 ## 檔案架構
-+ **main.ipynb** 主程式
-+ **images/** 標籤過的圖片
-+ **images/bmp/** 點陣圖
-+ **images/jpg/** JPG 格式
-+ **images/tmp/** Labeling 時的過渡
+```
+main.ipynb 主程式
+images/ 標籤過的圖片
+   |--- bmp/    (點陣圖)
+   |--- jpg/    (JPG 格式)
+   |--- tmp/    (Labeling 時)
+```
 
 ## Requirements
 Python 3.11.2
