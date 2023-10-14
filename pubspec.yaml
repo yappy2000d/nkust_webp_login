@@ -1,0 +1,14 @@
+#-------------------------------------------------------------------------------------------------------------
+# Copyright (c) Microsoft Corporation. All rights reserved.
+# Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
+#-------------------------------------------------------------------------------------------------------------
+
+name: NKUST_WEBP_LOGIN
+description: A test project
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  html: ^0.13.3+3
+  http: ^0.12.0
